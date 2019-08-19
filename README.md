@@ -10,7 +10,9 @@
 -openweathermapから気象データを抽出し、日本の気温と風向、風力を地図上で可視化しました。  
 
 画像例
+ -平均気温のみ可視化したもの  
 ![avarage_temp](https://user-images.githubusercontent.com/51524467/63278841-ff1d0480-c2e2-11e9-9f6b-957597d4793d.png)  
+ -気温、風向、風力を可視化したもの  
 ![temp_wind](https://user-images.githubusercontent.com/51524467/63278983-37244780-c2e3-11e9-8964-35e470aa3a5f.png)  
 
 
