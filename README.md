@@ -8,4 +8,5 @@
 
 内容  
 ・openweathermapから気象データを抽出し、日本の気温と風向、風力を地図上で可視化しました。  
-![Alt text](C:\Users\admin\Desktop\3年\春学期\プロジェクト3a\プロジェクト課題\avarage_temp.png)  
+![avarage_temp](https://user-images.githubusercontent.com/51524467/63278841-ff1d0480-c2e2-11e9-9f6b-957597d4793d.png)  
+
